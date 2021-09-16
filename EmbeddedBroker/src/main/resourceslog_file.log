@@ -1,0 +1,96 @@
+2021-09-16 10:05:14 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent false, AUTO_ACKNOWLEDGE
+2021-09-16 10:05:15 INFO  Producer:29 - Producer start work
+2021-09-16 10:05:16 INFO  Producer:35 - Producer finish work 591ms
+2021-09-16 10:05:16 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:05:16 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:05:16 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:06:18 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent false, CLIENT_ACKNOWLEDGE
+2021-09-16 10:06:18 INFO  Producer:29 - Producer start work
+2021-09-16 10:06:19 INFO  Producer:35 - Producer finish work 551ms
+2021-09-16 10:06:19 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:06:19 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:06:19 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:06:35 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent false, DUPS_OK_ACKNOWLEDGE
+2021-09-16 10:06:36 INFO  Producer:29 - Producer start work
+2021-09-16 10:06:37 INFO  Producer:35 - Producer finish work 582ms
+2021-09-16 10:06:37 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:06:37 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:06:37 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:07:02 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent false, SESSION_TRANSACTED
+2021-09-16 10:07:02 INFO  Producer:29 - Producer start work
+2021-09-16 10:07:02 INFO  Producer:35 - Producer finish work 81ms
+2021-09-16 10:07:03 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:07:03 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:07:03 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:08:04 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent false, AUTO_ACKNOWLEDGE
+2021-09-16 10:08:05 INFO  Producer:29 - Producer start work
+2021-09-16 10:08:06 INFO  Producer:35 - Producer finish work 1083ms
+2021-09-16 10:08:06 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:08:06 INFO  Consumer:43 - Consumer finish work 3ms
+2021-09-16 10:08:06 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:08:16 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent false, CLIENT_ACKNOWLEDGE
+2021-09-16 10:08:17 INFO  Producer:29 - Producer start work
+2021-09-16 10:08:18 INFO  Producer:35 - Producer finish work 1134ms
+2021-09-16 10:08:18 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:08:18 INFO  Consumer:43 - Consumer finish work 4ms
+2021-09-16 10:08:18 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:08:26 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent false, DUPS_OK_ACKNOWLEDGE
+2021-09-16 10:08:26 INFO  Producer:29 - Producer start work
+2021-09-16 10:08:28 INFO  Producer:35 - Producer finish work 1105ms
+2021-09-16 10:08:28 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:08:28 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:08:28 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:08:37 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent false, SESSION_TRANSACTED
+2021-09-16 10:08:37 INFO  Producer:29 - Producer start work
+2021-09-16 10:08:38 INFO  Producer:35 - Producer finish work 345ms
+2021-09-16 10:08:38 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:08:38 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:08:38 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:12:09 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent true, AUTO_ACKNOWLEDGE
+2021-09-16 10:12:10 INFO  Producer:29 - Producer start work
+2021-09-16 10:12:28 INFO  Producer:35 - Producer finish work 17731ms
+2021-09-16 10:12:28 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:12:28 INFO  Consumer:43 - Consumer finish work 0ms
+2021-09-16 10:12:28 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:12:36 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent true, CLIENT_ACKNOWLEDGE
+2021-09-16 10:12:36 INFO  Producer:29 - Producer start work
+2021-09-16 10:12:55 INFO  Producer:35 - Producer finish work 18769ms
+2021-09-16 10:12:55 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:12:55 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:12:55 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:13:04 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent true, DUPS_OK_ACKNOWLEDGE
+2021-09-16 10:13:05 INFO  Producer:29 - Producer start work
+2021-09-16 10:13:23 INFO  Producer:35 - Producer finish work 18193ms
+2021-09-16 10:13:23 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:13:23 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:13:23 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:13:31 INFO  Starter:23 - Start with parameters: vm://brokerr, persistent true, SESSION_TRANSACTED
+2021-09-16 10:13:32 INFO  Producer:29 - Producer start work
+2021-09-16 10:13:32 INFO  Producer:35 - Producer finish work 235ms
+2021-09-16 10:13:32 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:13:32 INFO  Consumer:43 - Consumer finish work 0ms
+2021-09-16 10:13:32 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:14:38 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent true, AUTO_ACKNOWLEDGE
+2021-09-16 10:14:39 INFO  Producer:29 - Producer start work
+2021-09-16 10:14:58 INFO  Producer:35 - Producer finish work 18563ms
+2021-09-16 10:14:58 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:14:58 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:14:58 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:15:06 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent true, CLIENT_ACKNOWLEDGE
+2021-09-16 10:15:07 INFO  Producer:29 - Producer start work
+2021-09-16 10:15:25 INFO  Producer:35 - Producer finish work 18037ms
+2021-09-16 10:15:25 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:15:25 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:15:25 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:15:32 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent true, DUPS_OK_ACKNOWLEDGE
+2021-09-16 10:15:33 INFO  Producer:29 - Producer start work
+2021-09-16 10:15:52 INFO  Producer:35 - Producer finish work 19168ms
+2021-09-16 10:15:52 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:15:52 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:15:52 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
+2021-09-16 10:16:01 INFO  Starter:23 - Start with parameters: tcp://localhost:61616, persistent true, SESSION_TRANSACTED
+2021-09-16 10:16:02 INFO  Producer:29 - Producer start work
+2021-09-16 10:16:02 INFO  Producer:35 - Producer finish work 315ms
+2021-09-16 10:16:03 INFO  Consumer:29 - Consumer start work
+2021-09-16 10:16:03 INFO  Consumer:43 - Consumer finish work 1ms
+2021-09-16 10:16:03 INFO  Starter:33 - !!!!!!!!!!!!!!End!!!!!!!!!!!!!!
